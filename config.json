@@ -1,0 +1,10 @@
+{
+  "alert_email": "chaitanyasai401@gmail.com@gmail.com",
+  "alert_phone": "",
+  "enable_email": true,
+  "enable_sms": true,
+  "alert_level": "High",
+  "twilio_account_sid": "AC4544919cc73bcf457fb39c6233172cc9",
+  "twilio_auth_token": "eb4db71b98889b2f36b9d5f639368b33",
+  "twilio_from_number": "+13094980484"
+}

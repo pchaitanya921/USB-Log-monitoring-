@@ -1,0 +1,26 @@
+{
+  "permissions": {
+    "\\\\.\\PHYSICALDRIVE1": "block"
+  },
+  "whitelist": [],
+  "blacklist": [],
+  "threat_devices": [
+    "\\\\.\\PHYSICALDRIVE1"
+  ],
+  "clean_devices": [],
+  "device_history": {
+    "\\\\.\\PHYSICALDRIVE1": [
+      {
+        "timestamp": "2025-07-06T03:22:52.221659",
+        "change": "Permission changed from read-only to block",
+        "permission": "block"
+      },
+      {
+        "timestamp": "2025-07-06T03:22:52.232570",
+        "change": "Marked as threat - blocked",
+        "permission": "block"
+      }
+    ]
+  },
+  "last_updated": "2025-07-06T03:22:52.232570"
+}

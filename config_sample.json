@@ -1,0 +1,23 @@
+{
+    "app_name": "USB HawkEye",
+    "version": "1.0.0",
+    "email_settings": {
+        "smtp_server": "smtp.gmail.com",
+        "smtp_port": 587,
+        "use_tls": true,
+        "sender_email": "your-email@gmail.com",
+        "sender_password": "your-app-password"
+    },
+    "alert_settings": {
+        "email_alerts": true,
+        "sms_alerts": false,
+        "device_insertion": true,
+        "device_removal": true,
+        "threat_detection": true
+    },
+    "ui_settings": {
+        "theme": "cyberpunk",
+        "animations": true,
+        "session_timeout": 30
+    }
+}
